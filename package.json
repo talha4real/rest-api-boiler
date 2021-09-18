@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A Boilder plate for any backend rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talha4real/rest-api-boiler.git"
+  },
+  "author": "scar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talha4real/rest-api-boiler/issues"
+  },
+  "homepage": "https://github.com/talha4real/rest-api-boiler#readme"
+}
